@@ -19,7 +19,7 @@ I made this theme one afternoon because my bus was late and I stayed home :)
 ![Alt text](./rust-screenshot.png?raw=true "Rust Code")
 
 # Install
-A pull request has been made to [Helix](https://github.com/helix-editor/helix/pull/9164)
+A pull request has been made to [Helix](https://github.com/helix-editor/helix/pull/9361)
 to the master branch after it is reviewed and accepted you should be able to have the theme If
 you build from master
 
