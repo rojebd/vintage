@@ -55,12 +55,12 @@ label = "#abcc8a"
 
 "ui.text" = { fg = "light-gray" } 
 "ui.text.focus" = { fg = "#83c679" } 
-"ui.text.inactive" = "#93a56f" #done
+"ui.text.inactive" = "#93a56f" 
 "ui.virtual" = { fg = "yellow" } 
 "ui.virtual.indent-guide" = { fg = "#5b5b5a" } 
 
-"ui.selection" = { bg = "gray" } 
-"ui.selection.primary" = { fg = "black", bg = "gray" } 
+"ui.selection" = { fg = "white", bg = "gray" } 
+"ui.selection.primary" = { fg = "white", bg = "gray" } 
 "ui.cursor.match" = { fg = "white", bg = "gray" } 
 "ui.cursor" = { modifiers = ["reversed"] } 
 "ui.cursorline.primary" = { bg = "#363738" } 
