@@ -9,7 +9,7 @@ I made this theme one afternoon because my bus was late and I stayed home :)
 
 # Screenshots
 
-## Python (Random python code I wrote)
+## Python (Qtile Config)
 ![Alt text](./python-screenshot.png?raw=true "Python Code")
 
 ## C (Screenshot of [raudio.c](https://github.com/raysan5/raylib/blob/master/src/raudio.c) from the raylib source code)
